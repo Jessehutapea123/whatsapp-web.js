@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pedroslopez/whatsapp-web.js.git"
+    "url": "git+https://github.com/Jessehutapea123/whatsapp-web.js?organization=Jessehutapea123&organization=Jessehutapea123"
   },
   "keywords": [
     "whatsapp",
@@ -22,10 +22,10 @@
     "client",
     "node"
   ],
-  "author": "Pedro Lopez",
+  "author": "Jesse",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/pedroslopez/whatsapp-web.js/issues"
+    "url": "https://github.com/Jessehutapea123/whatsapp-web.js?organization=Jessehutapea123&organization=Jessehutapea123"
   },
   "homepage": "https://wwebjs.dev/",
   "dependencies": {
